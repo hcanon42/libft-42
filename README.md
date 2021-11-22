@@ -1,4 +1,4 @@
-# woody-woodpacker
+# libft-42
 Welcome to the first 42 project !
 
 ## Table of Content
